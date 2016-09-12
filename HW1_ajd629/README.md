@@ -1,9 +1,13 @@
 ASSIGNMENT 1
 
 For the first part of the assignment, I took assistance from Vishwajeet Shelakar. 
+
 He helped me with resolving my merge conflict in the lab work. 
+
 I worked with Avikal Somwanshi to fork his repository, I made this repostory on my local machine. 
+
 Further, I also created another repository on compute named gittest_ajd629. I worked with Vishwajeet to fork this repository.
+
 Vishwajeet helped me understand the difference between cloning and forking
 
 ASSIGNMENT 2
@@ -25,4 +29,4 @@ I refered google to understand the syntax of the functions
 
 For plotting I refered vishwajeet's program to understand the iter function to use the next command for the color scheme and the legend function.
 
-
+I also helped Akshay Pen and Priyanshi Singh in assignment 3.
