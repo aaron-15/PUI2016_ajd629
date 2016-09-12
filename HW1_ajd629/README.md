@@ -1,5 +1,5 @@
 ASSIGNMENT 1
-
+Richard vecsler
 For the first part of the assignment, I took assistance from Vishwajeet Shelar. 
 
 He helped me with resolving my merge conflict in the lab work. 
@@ -9,6 +9,8 @@ I worked with Avikal Somwanshi to fork his repository, I made this repostory on 
 Further, I also created another repository on compute named gittest_ajd629. I worked with Vishwajeet to fork this repository.
 
 Vishwajeet helped me understand the difference between cloning and forking
+
+I helped Richard Vecsler with assignment 1
 
 ASSIGNMENT 2
 
