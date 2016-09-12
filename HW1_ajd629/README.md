@@ -17,3 +17,12 @@ I referred google to understand the syntax of the export command and the alias c
  
 ![Screenshot 2 Assignment 2](Using_alias.PNG)  
 
+ASSIGNMENT 3
+
+For the third part of the assignment, I downloaded the ipython notebook using the wget command and renamed it using the mv command.
+
+I refered google to understand the syntax of the functions
+
+For plotting I refered vishwajeet's program to understand the iter function to use the next command for the color scheme and the legend function.
+
+
