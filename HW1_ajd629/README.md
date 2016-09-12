@@ -1,6 +1,6 @@
 ASSIGNMENT 1
 
-For the first part of the assignment, I took assistance from Vishwajeet Shelakar. 
+For the first part of the assignment, I took assistance from Vishwajeet Shelar. 
 
 He helped me with resolving my merge conflict in the lab work. 
 
