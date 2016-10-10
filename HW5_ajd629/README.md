@@ -25,6 +25,7 @@ Null Hypothesis: The percentage of fat loss by the people in test group who diet
 Alternative Hypothesis: The percentage of fat loss by the people in test group who dieted is more than the percentage of fat loss by the people in the control group who did exercise
 
 Null Hypothesis: H0 = %(Fat loss)diet <= (Fat loss)exercise
+
 Alternative Hypothesis: Ha = %(Fat loss)diet > (Fat loss_exercise
 
 2. Do Americans trust the president
@@ -33,14 +34,17 @@ Null Hypothesis: The proportion of adult americans who find the President trustw
 Alternative Hypothesis: The proportion of adult americans who find the President trustworthy is less than or equal to the proportion of adult americans who find the President untrustworthy.
 
 Null Hypothesis: P0 - P1 > 0
+
 Alternative Hypothesis: P0 - P1 <= 0
 
 3. Effectiveness of nicotine patches to quit smoking.
 
 Null Hypothesis: The cessation rates for smokers using the nicotine patches is less than or equal to the cessation rates for smokers using the placebo patch.
+
 Alternative Hypothesis: The cessation rates for smokers using the nicotine patches is more than the cessation rates for the smokers using the placebo patch.
 
 Null Hypothesis: H0 = (Cessation rate)nicotine <= (Cessation rate)placebo
+
 Alternative Hypothesis: H0 = (Cessation rate)nicotine > (Cessation rate)placebo
 
 4. Quantify the danger of smoking for pregnant women. 
@@ -49,4 +53,5 @@ Null Hypothesis: IQ of children of the age group 1 - 4 of mother's who smoked du
 Alternative Hypothesis: IQ of Children of the age group 1 - 4 of mother's who smoked during their pregnancy is lower than other children of the same age group of mother's who did not smoke during their pregnancy.
 
 Null Hypothesis: Mean(IQ at different ages)smoked > Mean(IQ at different ages)not-smoked
+
 Alternative Hypothesis: Mean(IQ at different ages)smoked <= Mean(IQ at different ages)not-smoked
