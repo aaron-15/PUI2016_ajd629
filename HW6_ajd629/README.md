@@ -14,5 +14,7 @@ The value of effect size is very large on account of highly different variances.
 The paper can be found on https://www.authorea.com/users/106123/articles/133483/_show_article 
 
 
+# FBB feedback
+
 good work on the analysis in place and tests appropriately chosen and performed.
 please look at the comments on the Authorea article though. Mostly the issues are issues with the linguistics organization, and wording. I recommand you read a few articles, say 1/week, from science journals like PLOSOne to understand scientific writing a bit better.
